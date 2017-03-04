@@ -19,6 +19,6 @@ object StatefulNetworkWordCount {
       System.exit(1)
     }
 
-    // Your code here
+    // Introduzca su codigo aqui
   }
 }
